@@ -1,3 +1,5 @@
+# Vibe Coding
+
 ## Memory Bank
 
 Core Files
@@ -53,3 +55,7 @@ Create additional files when needed to organize:
 Copy rules in `vibe-coding-rules` to `.clinerules` for active use.
 
 - [Cursor Directory - Rules](https://cursor.directory/rules)
+
+## Tools
+
+- [stagewise](https://github.com/stagewise-io/stagewise): A browser toolbar that connects your frontend UI to your code ai agents in your code editor. The stagewise Toolbar makes it easy to edit your frontend code with AI agents.
